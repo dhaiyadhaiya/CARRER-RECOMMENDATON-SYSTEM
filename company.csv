@@ -1,0 +1,51 @@
+id,name,mobile,email,address,city,service,gender,mark1,mark2,dept,mark3,arrear,clear,sport,extra_cur,skill,income,jobtype
+1,TCS,9843382038,tcs@info.com,"11,Nungampakkam",Chennai,Software Development,Any,75,75,Any,75,0,0,Cricket,Seminar,Java,200000,None
+2,Wipro,9945633246,team@wipro.com,Adayar,Chennai,Software Development,Male,85,85,BE CSE,85,0,0,Tennis,Seminar,PHP,300000,None
+3,HCL,8832166438,info@hcl.in,DS Nagar,Pondicherry,Electrical & Hardware,Male,60,60,Any,90,1,1,Cricket,Seminar,Harware,300000,None
+4,Infosys,8832166439,xx@info.com,DS Nagar,Bangalore,Software Development,Male,50,50,Any,88,0,0,Cricket,x,PHP,200000,None
+5,Tata Consultancy Services,8832166440,xx@info.com,DS Nagar,Mumbai,Software Development,Male,70,70,Any,88,0,0,Cricket,x,PHP,200000,None
+6,Tech Mahindra,8832166441,xx@info.com,DS Nagar,Pune,Software Development,Male,60,60,Any,75,0,0,Foot Ball,x,PHP,200000,None
+7,Oracle Financial Services Software,8832166442,xx@info.com,DS Nagar,Mumbai,Software Development,Any,80,80,Any,90,0,0,x,x,"PHP,Web Design",200000,None
+8,Larsen & Toubro Infotech,8832166443,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,60,1,0,x,x,"PHP,Web Design",200000,None
+9,Mphasis,8832166444,xx@info.com,DS Nagar,Bangalore,Software Development,Any,85,85,Any,65,0,0,x,x,"PHP,Web Design",200000,None
+10,Mindtree,8832166445,xx@info.com,DS Nagar,Chennai,Software Development,Any,60,60,Any,70,0,0,x,x,PHP,200000,None
+11,Accel Frontline,8832166446,xx@info.com,DS Nagar,Chennai,Software Development,Any,60,60,Any,50,0,0,x,x,Java,200000,None
+12,3i Infotech,8832166447,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,55,1,0,x,x,Java,200000,None
+13,Atom Technologies,8832166448,xx@info.com,DS Nagar,Mumbai,Software Development,Any,75,75,Any,75,1,0,x,x,Multimedia,200000,None
+14,Blue Star Infotech,8832166449,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,80,0,0,x,x,x,200000,None
+15,C-DAC,8832166450,xx@info.com,DS Nagar,Pune,Software Development,Any,50,50,Any,70,0,0,x,x,x,200000,None
+16,CMC Limited,8832166451,xx@info.com,DS Nagar,New Delhi,Software Development,Any,60,60,Any,80,1,0,x,x,x,200000,None
+17,Coforge,8832166452,xx@info.com,DS Nagar,Noida,Software Development,Any,60,60,Any,70,0,0,x,x,x,200000,None
+18,Cybage,8832166453,xx@info.com,DS Nagar,Pune,Software Development,Any,60,60,Any,80,0,0,x,x,x,200000,None
+19,Cyient,8832166454,xx@info.com,DS Nagar,Hyderabad,Software Development,Any,60,60,Any,85,0,0,x,x,x,200000,None
+20,Datamatics,8832166455,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,75,0,0,x,x,x,200000,None
+21,Eclerx,8832166456,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,60,0,0,x,x,x,200000,None
+22,Firstsource,8832166457,xx@info.com,DS Nagar,Kolkata ,Software Development,Any,90,90,Any,60,0,0,x,x,x,200000,None
+23,Gateway TechnoLabs,8832166458,xx@info.com,DS Nagar,Ahmedabad ,Software Development,Any,55,55,Any,60,0,0,x,x,x,200000,None
+24,Godrej Infotech,8832166459,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,74,0,0,x,x,x,200000,None
+25,Honeywell,8832166460,xx@info.com,DS Nagar,Madurai,Software Development,Any,60,60,Any,60,0,0,x,x,x,200000,None
+26,HSBC GLT India,8832166461,xx@info.com,DS Nagar,Pune,Software Development,Any,60,60,Any,60,0,0,x,Seminar,x,200000,None
+27,KPIT Technologies,8832166462,xx@info.com,DS Nagar,Pune,Software Development,Any,85,85,Any,60,1,0,x,Seminar,Multimedia,200000,None
+28,Mastek,8832166463,xx@info.com,DS Nagar,Mumbai,Software Development,Any,65,65,Any,60,0,0,x,Seminar,Multimedia,200000,None
+29,Melstar Information Technologies,8832166464,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,60,0,0,x,Seminar,Python,200000,None
+30,Microland,8832166465,xx@info.com,DS Nagar,Bangalore,Software Development,Any,85,85,Any,60,0,0,x,Seminar,Python,200000,None
+31,Microsoft,8832166466,xx@info.com,DS Nagar,Hyderabad,Software Development,Any,95,95,Any,90,0,0,x,Seminar,Python,200000,None
+32,Mistral Solutions,8832166467,xx@info.com,DS Nagar,Bangalore,Software Development,Any,60,60,Any,60,1,0,x,Seminar,PHP,200000,None
+33,Monsoon Multimedia,8832166468,xx@info.com,DS Nagar,Noida,Software Development,Any,60,60,Any,60,1,0,x,x,PHP,200000,None
+34,Nucleus Software Exports,8832166469,xx@info.com,DS Nagar,Noida,Software Development,Any,90,90,Any,60,0,0,x,x,x,200000,None
+35,Onward Technologies,8832166470,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,60,0,0,x,x,x,200000,None
+36,Oswald Labs,8832166471,xx@info.com,DS Nagar,Delhi,Software Development,Any,60,60,Any,60,1,0,x,x,x,200000,None
+37,Persistent Systems,8832166472,xx@info.com,DS Nagar,Pune,Software Development,Any,86,86,Any,60,1,0,x,x,x,200000,None
+38,Quest Global,8832166473,xx@info.com,DS Nagar,Thiruvananthapuram,Software Development,Any,60,60,Any,60,0,0,x,x,x,200000,None
+39,Ramco Systems,8832166474,xx@info.com,DS Nagar,Chennai,Software Development,Any,75,75,Any,90,0,0,x,x,x,200000,None
+40,Rediff.com,8832166475,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,75,1,0,Cricket,x,x,200000,None
+41,Samsung India Software Centre,8832166476,xx@info.com,DS Nagar,Noida,Software Development,Any,60,60,Any,85,0,0,Cricket,x,x,200000,None
+42,Sasken Technologies,8832166477,xx@info.com,DS Nagar,Bangalore,Software Development,Any,60,60,Any,60,0,0,Cricket,x,x,200000,None
+43,Sonata Software,8832166478,xx@info.com,DS Nagar,Bangalore,Software Development,Any,60,60,Any,65,0,0,Cricket,x,x,200000,None
+44,SPAN Infotech (India) Pvt. Ltd.,8832166479,xx@info.com,DS Nagar,Bangalore,Software Development,Any,60,60,Any,74,0,0,x,x,x,200000,None
+45,Tata Interactive Systems,8832166480,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,78,0,0,x,x,x,200000,None
+46,Thoughtworks,8832166481,xx@info.com,DS Nagar,Bangalore,Software Development,Any,50,50,Any,88,1,0,x,x,x,200000,None
+47,UST,8832166482,xx@info.com,DS Nagar,Chennai,Software Development,Any,60,60,Any,86,1,0,x,x,x,200000,None
+48,WNS Global Services,8832166483,xx@info.com,DS Nagar,Mumbai,Software Development,Any,60,60,Any,58,0,0,x,x,Python,200000,None
+49,Zensar Technologies,8832166484,xx@info.com,DS Nagar,Pune,Software Development,Any,65,65,Any,64,0,0,x,Seminar,Python,200000,None
+50,Zoho Corporation,8832166485,xx@info.com,DS Nagar,Chennai,Software Development,Any,75,75,Any,70,0,0,Tennis,Seminar,Python,200000,None

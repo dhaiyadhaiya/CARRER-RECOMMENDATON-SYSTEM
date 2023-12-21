@@ -1,0 +1,161 @@
+id,name,gender,dob,mobile,email,dept,year,regno,pass,address,city,school1,mark1,school2,mark2,father,occupation,jobtype,location,income,monther,occu2,jobtype2,location2,income2,mark,sport,extra_cur,skill,arrear,clear
+1,Raju,Male,12-12-1997,9934621654,raju@gmail.com,BE CSE,2018-2022,101,1234,"22,SS Nagar",Trichy,SDBHS,85.64,SDBHS,88,Suresh,Manager,Government Job,Madurai,300000,Radha,x,x,x,0,91.16666667,"Cricket,Tennis,Foot Ball","Seminar Participated,Drawing,Music","CAD Design,Multimedia,Java",0,0
+2,Vishal,Male,10-11-1997,8866733546,vishal@gmail.com,BE CSE,2018-2022,102,1234,"4/312, MG Colony",Madurai,GGS,85.73,GGS,88.64,Raju,Farmer,Private,Tanjore,200000,Sara,x,x,x,0,62.66666667,Cricket,x,x,1,1
+3,Aarthi,Female,18-04-1999,7664530011,Aarthi1@gmail.com,BE EEE,2018-2019,103,1234,"2/29A , AD street
+Veesanam(Po),
+Namakkal(Dt)",Namakkal,SSA,78.24,SSA,82.3,x,x,x,x,200000,x,x,x,x,0,56.3,Tennis,x,x,3,2
+4,Abirami,Female,11-11-1998,7664530012,Abirami2@gmail.com,MCA,2018-2019,104,1234,"6/237 , AD street
+Marurpatty(Po),
+Namakkal(Dt)",Namakkal,BBP,67.45,BBP,69.5,x,x,x,x,100000,x,x,x,x,0,78.3,Tennis,x,x,1,1
+5,Akhilesh kumar,Male,10-02-1998,7664530013,Akhileshkumar3@gmail.com,BE ECE,2018-2019,105,1234,"Malsalame Chhote Nagla, 
+Adarshcolony, 
+Patna (City),",Patna,SSB,88.34,SSB,90.4,x,x,x,x,200000,x,x,x,x,0,89.6,Tennis,x,x,0,0
+6,Anitha,Female,02-07-1999,7664530014,Anitha4gmail.com4@gmail.com,BE CSE,2018-2019,106,1234,"26/64,OOrpuram Colony,
+Vasalurpatty(Po),
+Kollihlls,Namakkal(Dt)",Namakkal,BBG,80.67,BBG,76.8,x,x,x,x,200000,x,x,x,x,0,90.2,Cricket,x,x,0,0
+7,Arthi,Female,27-04-1999,7664530015,Arthi5@gmail.com,MBA,2018-2019,107,1234,"3/77, Pallar street, 
+Varagur, 
+Namakkal.",Namakkal,HSS,90.25,HSS,91.5,x,x,x,x,200000,x,x,x,x,0,91.3,Cricket,x,x,0,0
+8,Ashwani kumar,Male,21-12-1998,7664530016,Ashwanikumar6@gmail.com,BE CIVIL,2018-2019,108,1234,"Villchandan bag,
+Munger(PO),
+PS.Kashimbazar,Munger(DT).",Munger,GHHS,56.7,GHHS,60.4,x,x,x,x,180000,x,x,x,x,0,78.3,Cricket,x,x,0,0
+9,Bhuvaneshwari,Female,26-10-1998,7664530017,Bhuvaneshwari7@gmail.com,BE MECH,2018-2019,109,1234,"28,Kaliyappanoor,
+Collectorate(PO),
+Thanthonimalai(TK),Karur(DT)",Karur,GHHS,66.4,GHHS,72.5,x,x,x,x,200000,x,x,x,x,0,75.7,Cricket,x,x,0,0
+10,Boopathi,Male,25-07-1997,7664530018,Boopathi8@gmail.com,BE EEE,2018-2019,110,1234,"36,Pillaiyankovil theru,
+A.S.Pettai,Namakkal(DT)",Namakkal,GHHS,78.3,GHHS,84.6,x,x,x,x,200000,x,x,x,x,0,89.3,Cricket,x,x,0,0
+11,Dharmadurai,Male,03-06-1998,7664530019,Dharmadurai9@gmail.com,MBA,2018-2019,111,1234,"5/45,Boyer Street,
+Akkiyampatty(Vill),
+Senthamangalam(TK),
+Namakkal(Dt),",Namakkal,BPHS,78.32,BPHS,72.8,x,x,x,x,200000,x,x,x,x,0,70.3,"Cricket,Tennis",x,x,0,0
+12,Dhineshkumar,Male,23-10-1998,7664530020,Dhineshkumar10@gmail.com,MCA,2018-2019,112,1234,"6/52,Kashpakudi,
+Punjaikalakurichi(PO),
+Karur(DT)",Karur,BPHS,92.56,BPHS,85.3,x,x,x,x,300000,x,x,x,x,0,88.4,"Cricket,Tennis",x,x,0,0
+13,Elisa,Female,11-07-1999,7664530021,Elisa11@gmail.com,BE MECH,2018-2019,113,1234,"22/3,karupukovil street,
+Devaseri,Vadipatti,
+Madurai.",Madurai,BPHS,67.3,BPHS,73.5,x,x,x,x,280000,x,x,x,x,0,79.3,"Cricket,Tennis",x,x,0,0
+14,Gowshika,Female,16-09-1998,7664530022,Gowshika12@gmail.com,BE EEE,2018-2019,114,1234,"1/3,Manakkadu,
+Piranthagam(Po),
+Paramathi Velur(TK),
+Namakkal(DT).",Namakkal,SJHS,87.54,SJHS,84.2,x,x,x,x,200000,x,x,x,x,0,80.8,"Cricket,Tennis",x,x,0,0
+15,Haripriya,Female,22-04-1999,7664530023,Haripriya13@gmail.com,BE ECE,2018-2019,115,1234,"1/87,Anna Nagar,
+Rangappan Nayakenpalayam,
+Ernapuram(PO),
+Namakkal(Dt)",Namakkal,SJHS,91.45,SJHS,94.5,x,x,x,x,200000,x,x,x,x,0,90.7,"Cricket,Tennis",x,x,0,0
+16,Jayasurya,Male,15-07-1999,7664530024,Jayasurya14@gmail.com,MCA,2018-2019,116,1234,"4/37-3, Pachyee kovil thottam, 
+Chinnamuthalipatty(PO), 
+Namakkal(DT).",Namakkal,SJHS,87.45,SJHS,89.5,x,x,x,x,200000,x,x,x,x,0,90.5,Tennis,x,x,0,0
+17,Jeevith,Male,17-01-1999,7664530025,Jeevith15@gmail.com,MBA,2018-2019,117,1234,"J/59,CR Camp,
+Paramathi Velur,
+Namakkal(Dt).",Namakkal,SJHS,75.33,SJHS,79.6,x,x,x,x,200000,x,x,x,x,0,85.7,Tennis,x,x,0,0
+18,Jeevitha,Female,13-03-1999,7664530026,Jeevitha16@gmail.com,BE CSE,2018-2019,118,1234,"2/86,Arunthathiyar Street,
+Kuppampalayam,Pothupatty(Po),
+Namakkal(Dt)",Namakkal,SKHS,78.6,SKHS,83.4,x,x,x,x,130000,x,x,x,x,0,75.8,"Cricket,Tennis",x,x,0,0
+19,Kavitha,Female,24-06-1999,7664530027,Kavitha17@gmail.com,MBA,2018-2019,119,1234,"3/92, chetti street, 
+Vadakaraiathhur, 
+P.Velur (Tk),
+Namakkal(Dt)",Namakkal,SKHS,90.2,SKHS,91.4,x,x,x,x,120000,x,x,x,x,0,94.5,"Cricket,Tennis,Foot Ball",x,x,0,0
+20,Keerthana,Female,10-01-2000,7664530028,Keerthana18@gmail.com,MCA,2018-2019,120,1234,"1/176,A Perumal kovil street, 
+Valayapatti, Mohanur (Tk), 
+Namakkal(Dt)",Mohanur,SKHS,84.76,SKHS,81.4,x,x,x,x,200000,x,x,x,x,0,89.4,x,x,x,0,0
+21,Krishna prasad,Male,08-11-1999,7664530029,Krishnaprasad19@gmail.com,BE EEE,2018-2019,121,1234,"33B2, K.K.P.street,
+ H.Spettai, Namakkal(Dt)",Namakkal,SKHS,91.23,SKHS,92.4,x,x,x,x,200000,x,x,x,x,0,90.4,x,x,x,0,0
+22,Krishna veni,Female,07-11-1998,7664530030,Krishnaveni20@gmail.com,BE MECH,2018-2019,122,1234,"3/18,Akkalampatti,
+Namagiripettai(PO),
+Rasipuram,Namakkal (DT)",Namakkal,SKHS,87.45,SKHS,89.5,x,x,x,x,200000,x,x,x,x,0,92.7,x,x,x,0,0
+23,Maheshwar kumar,Male,23-11-1998,7664530031,Maheshwarkumar21@gmail.com,BE CIVIL,2018-2019,123,1234,"6/203,Nethaji Nagar,
+Trichy Road Namakkal(Dt)",Namakkal,SKHS,65.67,SKHS,69.5,x,x,x,x,200000,x,x,x,x,0,70.6,x,x,x,1,1
+24,Manikandan,Male,15-05-1999,7664530032,Manikandan22@gmail.com,BE CSE,2018-2019,124,1234,"40,Fatfima theatre street,
+ Ganthi Nagar,
+Allinagaram, Theni(Dt)",Theni,SKHS,78.9,SKHS,76.3,x,x,x,x,200000,x,x,x,x,0,74.4,Tennis,x,x,0,0
+25,Manisha,Female,19-07-1999,7664530033,Manisha23@gmail.com,BE CSE,2018-2019,125,1234,"2/573,Pallar Street,
+N.Kosavampatty,
+Namakkal(Dt)",Namakkal,CFHS,82.54,CFHS,84.2,x,x,x,x,200000,x,x,x,x,0,87.1,"Cricket,Tennis",x,x,0,0
+26,Mani,Male,15-01-1998,7664530034,Mani24@gmail.com,ECE,2018-2019,126,1234,"2/16, Mela street,
+Maruthavanchery, Nannilam (TK), 
+Thiravarur(DT).",Thiruvarur,CFHS,83.54,CFHS,87.4,x,x,x,x,200000,x,x,x,x,0,90.7,"Cricket,Tennis",x,x,0,0
+27,Mohammed aarif,Male,25-08-1999,7664530035,Mohammed@gmail.com,BE EEE,2018-2019,127,1234,"6/203,Nethaji Nagar,
+Trichy Road Namakkal(Dt)",Namakkal,CFHS,76.75,CFHS,79.4,x,x,x,x,270000,x,x,x,x,0,83.6,"Cricket,Tennis",x,x,0,0
+28,Nikhil kumar,Male,13-03-1998,7664530036,Nikhil@gmail.com,BE CSE,2018-2019,128,1234,"10/152,Veerapuram street, 
+Sengattupatti(PO), 
+Thuraiyur(TK),
+Trichy (DT)",Trichy,CFHS,92.45,CFHS,91.4,x,x,x,x,250000,x,x,x,x,0,79.6,x,x,x,0,0
+29,Nithya devi,Female,03-01-2000,7664530037,Nithyadevi@gmail.com,BE MECH,2018-2019,129,1234,"4/722, Nagarajapuram,
+Vasathapuram(PO), 
+Namakkal(DT)",Namakkal,CFHS,54.67,CFHS,58.6,x,x,x,x,200000,x,x,x,x,0,64.5,x,x,x,0,0
+30,Parthiban,Male,30-06-1998,7664530038,Parthiban@gmail.com,BE EEE,2018-2019,130,1234,"10/152,Veerapuram street, 
+Sengattupatti(PO), 
+Thuraiyur(TK),
+Trichy (DT)",Trichy,BBHS,76.4,BBHS,80.5,x,x,x,x,200000,x,x,x,x,0,78.6,"Cricket,Tennis",x,x,0,0
+31,Periyakaruppan,Male,20-07-1999,7664530039,Periyakaruppan@gmail.com,BE ECE,2018-2019,131,1234,"North street,
+ Melaachanampatti, 
+Viruveetu(PO), 
+Nilakottai(TK)
+Dindugal(DT)",Dindugal,BBHS,78.5,BBHS,83.2,x,x,x,x,200000,x,x,x,x,0,84.5,"Cricket,Tennis,Foot Ball",x,x,0,0
+32,Poovarasan,Male,17-12-1998,7664530040,Poovarasan@gmail.com,BE CSE,2018-2019,132,1234,"2/92, Saralakkadu, 
+Sengapalli,Palappatti(PO), 
+Paramathi velr(TK), 
+Namakkal(DT)",Namakkal,BBHS,84.56,BBHS,87.6,x,x,x,x,200000,x,x,x,x,0,89.7,"Cricket,Tennis,Foot Ball",x,x,0,0
+33,Prasanth,Male,05-05-1999,7664530041,Prasanth@gmail.com,BE CIVIL,2018-2019,133,1234,"27/C,Nadupalayam,Emoor(Po),
+Thanthonimalai,Karur(Dt)",Karur,BPHS,67.8,BPHS,75.3,x,x,x,x,200000,x,x,x,x,0,75.9,"Cricket,Tennis,Foot Ball",x,x,0,0
+34,Prathipa,Female,04-03-1999,7664530042,Prathipa@gmail.com,MCA,2018-2019,134,1234,"8/112,Vilaram street,
+Perumperppupatti,Semmedu,
+Namakkal(Dt)",Namakkal,BPHS,89.3,BPHS,93.5,x,x,x,x,200000,x,x,x,x,0,92.8,x,x,x,0,0
+35,Praveena,Female,12-02-1999,7664530043,Praveena@gmail.com,EEE,2018-2019,135,1234,"2/555,Ramalingam Nagar,
+N.Kosavampatty(Po),
+Namakkal(Dt)",Namakkal,BPHS,93.4,BPHS,89.5,x,x,x,x,200000,x,x,x,x,0,86.7,x,x,x,0,0
+36,Praveena,Female,01-06-1999,7664530044,Praveena@gmail.com,MBA,2018-2019,136,1234,"48,Karaipasupathipalayam, 
+Nanjaikalakurichi(PO),
+Aravakuririchi(TK),
+Karur(DT)",Karur,SJHS,92.3,SJHS,88.4,x,x,x,x,200000,x,x,x,x,0,89.7,"Cricket,Tennis",x,x,0,0
+37,Rajeshkumar,Male,26-08-1998,7664530045,Rajeshkumar@gmail.com,BE CSE,2018-2019,137,1234,"3,Kamatchiamman kovil street, 
+North steet, 
+karur(Dt)",Karur,GKHS,92.12,GKHS,93.1,x,x,x,x,200000,x,x,x,x,0,90.5,"Cricket,Tennis",x,x,0,0
+38,Rohini,Female,05-03-1998,7664530046,Rohini@gmail.com,BE EEE,2018-2019,138,1234,"21/15, V.P Kovil street,
+Melathiruppanthuruthi,
+Thiruvaiyaru, Thanjavur(Dt)",Thanjavur,GKHS,84.3,GKHS,81.4,x,x,x,x,200000,x,x,x,x,0,86.6,"Cricket,Tennis",x,x,0,0
+39,Rohit kumar,Male,19-08-1996,7664530047,Rohitkumar@gmail.com,BE ECE,2018-2019,139,1234,"Karmalichak ,Patna City,
+Begampur(PO), 
+Bypass(PS),Patna(DT)",Patna,BPHS,78.4,BPHS,74.5,x,x,x,x,160000,x,x,x,x,0,78.9,"Cricket,Tennis",x,x,0,0
+40,Santhana kumar,Male,05-06-1998,7664530048,Santhanakumar@gmail.com,BE MECH,2018-2019,140,1234,"1/4,Thamotharanpattinam,Vattanam(Po).
+Thiruvatanai(Tk),
+Ramanathapuram(Dt).",Ramanathapuram,SJHS,79.4,SJHS,75.4,x,x,x,x,200000,x,x,x,x,0,75.9,Cricket,x,x,0,0
+41,Santhiya,Female,12-06-1999,7664530049,Santhiya@gmail.com,BE CIVIL,2018-2019,141,1234,"4/145,Kachinampatty Pirivu,
+Eliavanour(PO),
+Aravakurichi(TK),
+Karur(DT).",Karur,GHHS,87.4,GHHS,82.4,x,x,x,x,200000,x,x,x,x,0,84.5,Cricket,x,x,0,0
+42,Selvaraj,Male,19-05-1999,7664530050,Selvaraj@gmail.com,MBA,2018-2019,142,1234,"37,Sengunthapuram,
+6th Cross,Karur(Dt)",Karur,GHHS,76.5,GHHS,77.4,x,x,x,x,143000,x,x,x,x,0,79.3,Cricket,x,x,0,0
+43,Shalini,Female,12-12-1999,7664530051,Shalini@gmail.com,MCA,2018-2019,143,1234,"3/15,Gudi Street,
+Kumara Gowndanpatti(PO),
+Namakkal(Dt)",Namakkal,GHHS,79.5,GHHS,90.3,x,x,x,x,200000,x,x,x,x,0,92.5,Cricket,x,x,0,0
+44,Sindhuja,Female,11-03-1999,7664530052,Sindhuja@gmail.com,BE EEE,2018-2019,144,1234,"2/398, Pallar street,
+N.Kosavampatty(PO),
+Namakkal(DT).",Namakkal,GHHS,76.3,GHHS,80.4,x,x,x,x,150000,x,x,x,x,0,81.3,Cricket,x,x,0,0
+45,Suguna,Female,09-06-1999,7664530053,Suguna@gmail.com,BE CSE,2018-2019,145,1234,"5/990,Sambalkolikadu, 
+Pethanayakanpatty,Kamaraja nagar(PO), 
+Rasipuram(TK),
+Namakkal(DT)",Namakkal,BPHS,87.5,BPHS,90.2,x,x,x,x,100000,x,x,x,x,0,87.3,Cricket,x,x,0,0
+46,Sukumar,Male,28-12-1998,7664530054,Sukumar@,BE EEE,2018-2019,146,1234,"2/161A,Vinayakar Street,
+Semmadaipalayam,
+Periyasolipalayam(Po),
+Paramathi velur(TK),
+Namakkal(Dt)",Namakkal,SJHS,88.7,SJHS,91.4,x,x,x,x,200000,x,x,x,x,0,91.6,Cricket,x,x,0,0
+47,Surya,Male,14-07-1997,7664530055,Surya@gmail.com,BE EEE,2018-2019,147,1234,"1/4,Thamotharanpattinam,Vattanam(Po).
+Thiruvatanai(Tk),
+Ramanathapuram(Dt).",Namakkal,SJHS,89.5,SJHS,81.2,x,x,x,x,200000,x,x,x,x,0,86.2,"Cricket,Tennis",x,x,0,0
+48,Susmitha,Female,15-05-1996,7664530056,Susmitha@gmail.com,BE CSE,2018-2019,148,1234,"2/16, Mela street,
+Maruthavanchery, Nannilam (TK), 
+Thiravarur(DT).",Thanjavur,VMHS,90.2,VMHS,86.7,x,x,x,x,200000,x,x,x,x,0,80.3,x,x,x,0,0
+49,Tamilselvi,Female,20-06-1995,7664530057,Tamilselvi@gmail.com,BE ECE,2018-2019,149,1234,"60/113B, Middle street, 
+Uzhavarpatty, 
+Kuppuchipalayam(PO), 
+P.Velur(TK),
+Namakkal(DT)",Namakkal,VMHS,69.4,VMHS,73.5,x,x,x,x,200000,x,x,x,x,0,75.4,"Cricket,Tennis,Foot Ball",x,x,2,1
+50,Venkateswaran,Male,09-01-1999,7664530058,Venkateswaran@gmail.com,BE MECH,2018-2019,150,1234,"5/158, Rajapattinam(south),
+Nirmuilkutti(PO), 
+Valapadi(TK),
+Salem(DT)",Salem,VMHS,90.4,VMHS,84.3,x,x,x,x,200000,x,x,x,x,0,73.2,"Cricket,Tennis,Foot Ball",x,x,0,0
+51,Vinothini,Female,02-03-1999,7664530059,Vinothini@gmail.com,BE MECH,2018-2019,151,1234,"143 Erupaithoppu,
+seeplapudhur,
+Trichy-621207.",Trichy,MHS,92.3,MHS,94.3,x,x,x,x,130000,x,x,x,x,0,90.6,"Cricket,Tennis,Foot Ball",x,x,0,0
